@@ -1,12 +1,7 @@
-#N canvas 935 104 788 662 12;
+#N canvas 629 138 788 662 12;
 #X obj 161 73 sfplay2;
-#X obj 284 308 single-echo;
-#X floatatom 392 218 5 0 0 0 - - - 0;
-#X floatatom 468 222 5 0 0 0 - - - 0;
-#X floatatom 553 223 5 0 0 0 - - - 0;
-#X obj 162 625 dac~;
-#X connect 0 0 5 0;
-#X connect 0 0 5 1;
+#X obj 166 535 dac~;
+#X obj 161 158 vst1;
+#X connect 0 0 2 0;
+#X connect 2 0 1 0;
 #X connect 2 0 1 1;
-#X connect 3 0 1 2;
-#X connect 4 0 1 3;
