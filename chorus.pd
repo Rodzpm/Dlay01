@@ -1,4 +1,4 @@
-#N canvas 960 0 959 976 12;
+#N canvas 691 27 959 976 12;
 #X obj 272 592 dac~;
 #X obj 304 144 delwrite~ chorus 1000;
 #X obj 306 393 delread4~ chorus 1000;
