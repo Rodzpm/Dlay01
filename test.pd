@@ -1,7 +1,7 @@
-#N canvas 629 138 788 662 12;
+#N canvas -14 20 1920 983 12;
 #X obj 161 73 sfplay2;
-#X obj 166 535 dac~;
-#X obj 161 158 vst1;
+#X obj 161 625 dac~;
+#X obj 161 172 vst1;
 #X connect 0 0 2 0;
 #X connect 2 0 1 0;
 #X connect 2 0 1 1;
