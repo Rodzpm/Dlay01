@@ -1,5 +1,0 @@
-code zWrt;
-type effect;
-description Infos.txt;
-manufacturer Allan Leherpeux;
-compatibility 1.0.7;
