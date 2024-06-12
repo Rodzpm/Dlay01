@@ -1,4 +1,4 @@
-#N canvas -14 20 1920 983 12;
+#N canvas 231 124 1440 721 12;
 #X obj 161 73 sfplay2;
 #X obj 161 625 dac~;
 #X obj 161 172 vst1;
