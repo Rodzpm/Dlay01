@@ -1,9 +1,0 @@
-#N canvas 909 236 450 300 12;
-#X obj 110 48 sfplay2;
-#X obj 130 149 hsl 170 20 1 100 0 0 empty empty empty -2 -10 0 12 #fcfcfc #000000 #000000 0 1;
-#X obj 109 242 dac~;
-#X obj 109 187 +~;
-#X connect 0 0 3 0;
-#X connect 1 0 3 1;
-#X connect 3 0 2 0;
-#X connect 3 0 2 1;

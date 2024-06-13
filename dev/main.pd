@@ -1,0 +1,7 @@
+#N canvas -14 20 1920 983 12;
+#X obj 445 139 sfplay2;
+#X obj 445 224 P7UREM;
+#X obj 445 639 dac~;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
+#X connect 1 0 2 1;
