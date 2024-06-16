@@ -1,0 +1,17 @@
+#N canvas 708 250 662 450 12;
+#X obj 170 44 sfplay2;
+#X obj 172 162 chorus;
+#X obj 172 187 dac~;
+#X obj 365 60 hsl 80 20 0 6 0 0 empty empty LFO\ Rate -2 -10 0 12 #fcfcfc #000000 #000000 0 1;
+#X obj 365 100 hsl 80 20 0 1 0 0 empty empty Depth -2 -10 0 12 #fcfcfc #000000 #000000 0 1;
+#X obj 465 100 hsl 80 20 20 40 0 0 empty empty Delay\ Time -2 -10 0 12 #fcfcfc #000000 #000000 0 1;
+#X text 459 59 Chorus;
+#X obj 362 189 s lfo;
+#X obj 362 259 s depth;
+#X obj 462 227 s chorus-delay;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
+#X connect 1 0 2 1;
+#X connect 3 0 7 0;
+#X connect 4 0 8 0;
+#X connect 5 0 9 0;
