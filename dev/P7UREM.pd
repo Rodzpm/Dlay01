@@ -81,7 +81,6 @@
 #X obj 507 859 expr $f1 / 100;
 #X obj 507 834 rand-param 0 100;
 #X obj 608 689 rand-param 20 40;
-#X obj 347 109 cnv 20 20 20 empty empty P7UREM 20 12 1 20 #ffffff #404040 0;
 #X connect 0 0 62 0;
 #X connect 1 0 60 0;
 #X connect 3 0 57 0;
