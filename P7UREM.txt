@@ -1,5 +1,5 @@
 code zWrt;
 type effect;
 description Infos.txt;
-manufacturer Allan Leherpeux;
+manufacturer Rodz;
 compatibility 1.0.7;
