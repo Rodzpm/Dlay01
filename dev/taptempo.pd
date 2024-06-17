@@ -1,4 +1,4 @@
-#N canvas 1142 342 717 624 12;
+#N canvas 659 208 717 624 12;
 #X obj 109 120 bng 20 250 50 0 empty empty click 0 30 0 12 #00ff04 #000000 #000000;
 #X obj 414 99 i;
 #X obj 466 96 + 1;
@@ -17,14 +17,16 @@
 #X floatatom 505 391 5 0 0 0 - - - 0;
 #X floatatom 595 391 5 0 0 0 - - - 0;
 #X obj 417 428 expr ($f1 + $f2 + $f3)/3, f 26;
-#X floatatom 109 198 5 0 0 3 ms - - 0;
+#X floatatom 109 198 5 0 0 3 - - - 0;
 #X obj 160 120 bng 20 250 50 0 empty empty reset 0 30 0 12 #bbbbbb #000000 #000000;
 #X obj 535 61 t 0 b;
 #X obj 417 459 expr (60000/$f1);
-#X floatatom 152 198 5 0 0 3 BPM - - 0;
+#X floatatom 152 198 5 0 0 3 - - - 0;
 #X obj 94 483 outlet;
 #X obj 150 484 outlet;
 #X obj 99 43 inlet;
+#X text 150 217 BPM;
+#X text 107 216 ms;
 #X connect 0 0 1 0;
 #X connect 1 0 2 0;
 #X connect 1 0 3 0;
