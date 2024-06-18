@@ -1,5 +1,5 @@
 P7UREM est un plugin de delay qui fait pleins
 de trucs sympa
 
-Version: 0.2
-Author: Allan Leherpeux
+Version: 1.0
+Author: Rodz
