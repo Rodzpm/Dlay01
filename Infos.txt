@@ -1,4 +1,4 @@
-P7UREM est un plugin de delay qui fait pleins
+Dlay01 est un plugin de delay qui fait pleins
 de trucs sympa
 
 Version: 1.0
