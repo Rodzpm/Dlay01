@@ -57,4 +57,4 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## Contact
 
-Pour toute question ou commentaire, n'hésitez pas à me contacter via [email](allan.leherpeux@epitech.eu) ou ouvrir une issue sur ce repository.
+Pour toute question ou commentaire, n'hésitez pas à me contacter via [email](mailto:allan.leherpeux@epitech.eu) ou ouvrir une issue sur ce repository.
