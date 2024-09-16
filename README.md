@@ -44,8 +44,8 @@ Dlay01 est un plugin VST développé avec Pure Data, offrant des effets de delay
 
 ## Crédits
 
-- **Camomile** : [Camomile]([https://camomile.io](https://github.com/pierreguillot/Camomile)) est un plugin qui permet de convertir des patches Pure Data en plugins VST. Il a été essentiel pour l'exportation de ce projet.
-- **Pure Data** : [Pure Data]([https://puredata.inf](https://github.com/pure-data/pure-data)o) est un environnement de programmation graphique pour la création de musique et de médias interactifs. Ce plugin a été développé en utilisant Pure Data.
+- **Camomile** : [Camomile](https://github.com/pierreguillot/Camomile) est un plugin qui permet de convertir des patches Pure Data en plugins VST. Il a été essentiel pour l'exportation de ce projet.
+- **Pure Data** : [Pure Data](https://github.com/pure-data/pure-data) est un environnement de programmation graphique pour la création de musique et de médias interactifs. Ce plugin a été développé en utilisant Pure Data.
 
 ## Licence
 
