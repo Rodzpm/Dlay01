@@ -15,10 +15,10 @@ Dlay01 est un plugin VST développé avec Pure Data, offrant des effets de delay
 ## Installation
 
 1. **Télécharger le Plugin :**
-   - Téléchargez le fichier VST `Dlay01.vst` depuis les [releases](https://github.com/votre-utilisateur/Dlay01/releases) de ce repository.
+   - Téléchargez le dossier `Dlay01` depuis ce repository.
 
-2. **Installation dans la DAW :**
-   - Placez le fichier VST téléchargé dans le répertoire des plugins VST de votre DAW.
+2. **Installation dans le DAW :**
+   - Placez le dossier téléchargé dans le répertoire des plugins VST de votre DAW.
    - Lancez ou redémarrez votre DAW et recherchez "Dlay01" dans la liste des plugins disponibles.
 
 ## Exemples de Paramètres
